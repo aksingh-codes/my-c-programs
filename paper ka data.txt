@@ -1,0 +1,5 @@
+
+ Paper analysis:
+QUESTION	DIFF.level		QUES.STATUS	REASON		TOPIC
+Question2	medium			wrong		conceptual		tf
+Question1	hard			left		time		hh
